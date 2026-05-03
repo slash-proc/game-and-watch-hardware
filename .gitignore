@@ -1,3 +1,10 @@
-kicad/.history
-kicad/gnw-backups
-**/*.lck
+# KiCad local files
+*-save.kicad_pcb
+*-save.kicad_sch
+fp-info-cache
+*.lck
+*-bak
+*-backups/
+*.kicad_prl
+**/.history
+DRC.rpt

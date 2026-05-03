@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name gnw_library)(type Legacy)(uri ${KIPRJMOD}/gnw_library.lib)(options "")(descr ""))
+  (lib (name "gnw-cache")(type "KiCad")(uri "${KIPRJMOD}/gnw-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "gnw_library")(type "KiCad")(uri "${KIPRJMOD}/gnw_library.kicad_sym")(options "")(descr ""))
+  (lib (name "gnw_library1")(type "KiCad")(uri "${KIPRJMOD}/gnw_library1.kicad_sym")(options "")(descr ""))
 )
